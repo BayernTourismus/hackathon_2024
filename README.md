@@ -12,3 +12,6 @@
 - Datenanalyse und Optimierung
 - Analysen nach Regionen (Heatmaps oder ähnliches)
 - Reiseplaner nach persönlichen Vorgaben (Persönlicher Reiseassistent mit KI?)
+- Coole Widgets zur Datennutzung
+- Wordpress Plugin
+- Digitale Gästebroschüre on demand (papierlose TouristInfo)
